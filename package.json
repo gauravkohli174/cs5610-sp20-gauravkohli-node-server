@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/gauravkohli174/cs5610-sp20-gauravkohli-node-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "body-parser": "latest"
   }
 }
