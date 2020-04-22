@@ -1,0 +1,26 @@
+{
+  "name": "cs5610-sp20-gauravkohli-node-server",
+  "version": "1.0.0",
+  "description": "A simple node server application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravkohli174/cs5610-sp20-gauravkohli-node-server.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Gaurav Kohli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gauravkohli174/cs5610-sp20-gauravkohli-node-server/issues"
+  },
+  "homepage": "https://github.com/gauravkohli174/cs5610-sp20-gauravkohli-node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
